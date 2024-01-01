@@ -2,10 +2,10 @@
 
 ![image](https://github.com/Yashshinde2506/Amazon-Sales-Analysis/assets/94638857/cf9cb0fe-ba77-4ed6-8e0a-869288fe75cf)
 
-Overview
+#Overview
 This Power BI project aims to analyze and visualize yearly and monthly revenue, profits, and sales data for Amazon sellers. By leveraging Power BI's functionalities, the project provides comprehensive insights into sales performance over time, aiding in strategic decision-making and business growth.
 
-Features
+#Features
 Yearly Revenue Analysis: Visualizations showcasing yearly revenue trends, comparisons, and growth rates.
 Monthly Revenue Breakdown: Detailed breakdown of revenue on a month-by-month basis, revealing seasonal patterns and fluctuations.
 Profit Analysis: Insights into yearly and monthly profits, including gross profits and net profits after expenses.
